@@ -1,3 +1,5 @@
+//DeQueue Implemwntation;
+
 #include<iostream>
 #define MAX 30
 using namespace std;
